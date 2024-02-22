@@ -1,0 +1,77 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: Arial;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+    width: 200px;
+    height: 200px;
+    
+   
+    
+
+
+}
+
+
+body{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80vh;
+    background-image: url('background.png');
+    background-size: cover;
+    
+
+
+
+
+
+}
+.button{
+    margin: 0;
+    
+    border: 5px;
+    
+    border-radius: 5px;
+    background-color: chocolate;
+    padding: 5px;
+    
+
+
+
+
+
+}
+
+a{
+    
+   color: aliceblue;
+   font-family: 'Times New Roman', Times, serif;
+   text-decoration: none;
+  
+}
+a:hover{
+    color:lawngreen;
+}
+a:active{
+    color: maroon;
+}
+.button:hover{
+    background-color: blueviolet;
+    color: gold;
+}
